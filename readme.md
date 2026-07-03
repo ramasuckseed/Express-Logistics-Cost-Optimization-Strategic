@@ -1,7 +1,9 @@
-# 📦 Express Logistics Cost Optimization & Strategic FP&A Pipeline
+# 📦 Express Logistics Cost Optimization & Strategic FP&A Simulation
+
+⚠️ Disclaimer: This dataset is entirely synthetic (generated via statistical distribution). It does not represent real operational data of any specific company. This project is strictly for academic portfolio demonstration.
 
 ## 📌 Project Overview
-This repository contains an enterprise-grade data analytics and financial modeling pipeline designed for **SPX Express (Shopee Xpress)**. The system is engineered to handle large-scale e-commerce logistics data (**500,000 delivery records**) to extract actionable financial insights, optimize the **Last-Mile Driver Expense Framework**, and conduct peer benchmarking against industry competitors.
+This repository contains an enterprise-grade data analytics and financial modeling pipeline designed for simulation. The system is engineered to handle large-scale e-commerce logistics data (**500,000 delivery records**) to extract actionable financial insights, optimize the **Last-Mile Driver Expense Framework**, and conduct peer benchmarking against industry competitors.
 
 The core objective of this tool is to empower the CFO and Senior Management with data-driven recommendations that enhance cost efficiency and protect regional profit margins.
 
